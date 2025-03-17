@@ -1,6 +1,6 @@
 # Microeconometrics Methods
 
-This repository has problem set and own-developed codes for the graduate courses of Microeconometrics I and II, ministered by professors Bruno Ferman and Vítor Possebom at FGV-EESP.
+This repository has problem set and own-developed codes (mostly in R) for the graduate courses of Microeconometrics I and II, ministered by professors Bruno Ferman and Vítor Possebom at FGV-EESP.
 A more complete set of materials can be found at Professor Possebom's [website](https://sites.google.com/site/vitorapossebom/professional-ex?authuser=0).
 
 These courses cover a lot of methods in Microeconometrics and in casual inference more generally:
