@@ -13,4 +13,9 @@ These courses cover a lot of methods in Microeconometrics and in casual inferenc
 - Panel methods and inference;
 - Difference-in-differences: classic design and recent developments;
 - Synthetic controls;
-- Inference with few treated units and clusters.
+- Inference with few treated units and clusters;
+
+and others.
+The codes in R include implementation of these methods, as well as Monte Carlo simulations to assess the properties of some of them.
+
+Problem sets are intelectual property of Professor Ferman and Professor Possebom; code is my own, based on guidance provided by the problem sets.
